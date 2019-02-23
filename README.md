@@ -15,3 +15,12 @@
 ### [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)    [via Kadenze](https://www.kadenze.com/courses)
 - Cover the basic components of deep learning, what it means, how it works, and develop code necessary to build various algorithms such as deep convolutional networks, variational autoencoders, generative adversarial networks, and recurrent neural networks. 
 - A major focus of this course will be to not only understand how to build the necessary components of these algorithms, but also how to apply them for exploring creative applications. Free and paid options are available.
+
+## Reinforcement Learning Resources
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
+
+* [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+* [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+* [David Silver RL Lecture Notes](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
